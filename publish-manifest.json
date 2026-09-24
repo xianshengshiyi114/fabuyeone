@@ -1,0 +1,24 @@
+{
+  "format": "webring-publish-page-v1",
+  "site": "测试1站",
+  "generated_at": "2026-09-24T13:57:33.450Z",
+  "sha256": "003401142cdb1bffe369a940c0c8def35403dada651dd921f7d9ad6996a65a78",
+  "addresses": {
+    "permanent": "https://fabu.chinazhangsan.us.ci/",
+    "github_pages": "https://xianshengshiyi114.github.io/fabuyeone/",
+    "notion": "https://excellent-ziconium-8f3.notion.site/3e5e6d64d2fb80c78bbeee6a1b13b3fe?pvs=73",
+    "npm_cdn": "https://esm.sh/link-age-great@latest/index.html",
+    "npm_cdns": [
+      {
+        "provider": "unpkg",
+        "role": "page",
+        "url": "https://unpkg.com/link-age-great@latest/index.html"
+      },
+      {
+        "provider": "esm",
+        "role": "page",
+        "url": "https://esm.sh/link-age-great@latest/index.html"
+      }
+    ]
+  }
+}

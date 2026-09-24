@@ -1,0 +1,21 @@
+{
+  "name": "link-age-great",
+  "version": "0.0.4",
+  "description": "测试1站 npm 完整永久发布页",
+  "private": false,
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianshengshiyi114/fabuyeone.git"
+  },
+  "files": [
+    "index.html",
+    "404.html",
+    "publish-manifest.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
